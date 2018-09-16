@@ -18,6 +18,8 @@ public class MainClass {
 
         ll.insertAt(0,666);
 
+        ll.insert(432);
+
 
         ll.show();
 
